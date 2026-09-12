@@ -14,8 +14,15 @@ function checkCountValue() {
   }
 }
 
+
 function increaseCount() {
   count++; // Increment the count by 1
   displayCount(); // Display the count
   checkCountValue(); // Check count value and display messages
+}
+
+function resetCount(){
+    count=0;
+    alert("Followers count has been reset.");
+    displayCount();
 }
