@@ -52,3 +52,22 @@ console.log("User Category:", userCategory);
 let isAuthenticated = true;
 let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
 console.log("Authentication Status:", authenticationStatus);
+
+// practice task
+let role = "Enrolled Member";
+
+if (role === "Employee") {
+    console.log("You are eligible for Dietary Services.");
+}
+else if (role === "Enrolled Member") {
+    console.log("You are eligible for Dietary Services and one-on-one interaction with a dietician.");
+}
+else if (role === "Subscriber") {
+    console.log("You have partial access to Dietary Services.");
+}
+else if (role === "Non-Subscriber") {
+    console.log("You need to enroll or subscribe first to avail Dietary Services.");
+}
+else {
+    console.log("Invalid role.");
+}
