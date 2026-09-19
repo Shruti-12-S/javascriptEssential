@@ -1,6 +1,8 @@
 # JavaScript Essential
 
-A beginner-friendly collection of JavaScript mini-projects and exercise folders focused on core web development concepts. This repository demonstrates how to build practical browser-based features using HTML, CSS, and JavaScript.
+This repository was created as part of the Coursera course: JavaScript Programming Essentials, which is included in the IBM Full-Stack JavaScript Developer Professional Certificate.
+
+It is a beginner-friendly collection of JavaScript mini-projects and exercise folders focused on core web development concepts. The projects in this repository demonstrate the practical use of JavaScript with HTML and CSS to build interactive browser-based applications.
 
 ## Overview
 
@@ -15,6 +17,16 @@ This project contains multiple standalone examples covering:
 - Small app logic and UI patterns
 
 The repository is organized as separate folders, each representing a small exercise or mini project.
+
+## Coursera / IBM Certificate Context
+
+This work was completed as part of the JavaScript Programming Essentials course within the IBM Full-Stack JavaScript Developer Professional Certificate program. The exercises and mini-projects help reinforce concepts such as:
+
+- JavaScript syntax and logic
+- Variable and function usage
+- Browser-based interactivity
+- Front-end development fundamentals
+- Problem-solving through small coding challenges
 
 ## Project Structure
 
@@ -35,7 +47,8 @@ javascriptEssential/
 ├── productSurvey/
 ├── restaurantMenu/
 ├── speedAnalysis/
-└── README.md
+├── README.md
+└── .theia/
 ```
 
 ## Included Examples
@@ -75,7 +88,7 @@ Example:
 
 ## Notes
 
-This repository is ideal for learning JavaScript by building small practical projects and understanding how front-end web interactions work.
+This repository is ideal for learning JavaScript by building small practical projects and understanding how front-end web interactions work. It reflects the hands-on, project-based learning approach of the JavaScript Programming Essentials course within the IBM Full-Stack JavaScript Developer Professional Certificate.
 
 ## License
 
@@ -83,4 +96,4 @@ This project is provided for educational learning purposes.
 
 ## Author
 
-Built as a JavaScript essentials learning repository.
+Built as part of the IBM Full-Stack JavaScript Developer Professional Certificate learning journey.
